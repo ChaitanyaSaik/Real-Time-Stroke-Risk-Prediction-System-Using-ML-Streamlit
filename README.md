@@ -1,4 +1,4 @@
-# 🫀 Heart Stroke Prediction App
+#  Real-Time Stroke Risk Prediction System Using ML & Streamlit
 
 A web application built using **Streamlit** and **Machine Learning** to predict the likelihood of a stroke based on health-related input features. This app also provides detailed insights into the dataset, preprocessing steps, exploratory data analysis (EDA), model training, evaluation metrics, and prediction results.
 
